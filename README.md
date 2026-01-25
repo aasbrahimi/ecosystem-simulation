@@ -1,19 +1,19 @@
 # Ecosystem Simulation in C
 
-## 📌 Project Overview
+# Project Overview
 This project consists in implementing a simple virtual ecosystem simulation
 using the C programming language.
 
 The ecosystem is composed of prey and predators evolving on a discrete
 two-dimensional toroidal world.
 
-## 🎯 Objectives
+# Objectives
 - Practice linked list manipulation
 - Use dynamic memory allocation safely
 - Apply modular programming in C
 - Simulate interactions between prey and predators
 
-## 🧠 Technical Concepts
+# Technical Concepts
 - Singly linked lists
 - Dynamic memory management (`malloc`, `free`)
 - Assertions (`assert`)
@@ -21,19 +21,18 @@ two-dimensional toroidal world.
 - Makefile usage
 - Debugging with gdb and valgrind
 
-## 🛠️ Technologies
+# Technologies
 - C language
 - GCC
 - Makefile
 - Linux development environment
 
-## 📂 Repository Structure
+# Repository Structure
 - `code/` : source code of the ecosystem simulation
 - `statement/` : university project description
 
-## 🎓 Academic Context
+# Academic Context
 University project – LU2IN018  
 Bachelor in Computer Science – Sorbonne Université
 
-## ✍️ Author
-Aymen
+
